@@ -1,5 +1,10 @@
-# code-holders
- 
-Holds code used for examples, questions on forums or just long term testing / issues
+# import issue
 
-main should only ever have this readme, all code should be in other branches
+M.Tabs imports as undefined.
+
+Steps:
+
+1. `npm i`
+2. `npm run build`
+3. Open `dist/cards.html` in browser
+4. Open browser console to see error
